@@ -1,0 +1,19 @@
+{
+    "name": "kevin/lab6.1",
+    "description": "faker",
+    "require": {
+        "fakerphp/faker": "^1.23"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kevin\\Lab61\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Miranda"
+        }
+    ],
+    "minimum-stability": "stable"
+}
